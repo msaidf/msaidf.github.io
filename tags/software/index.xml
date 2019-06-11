@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on M Said F</title>
+    <link>https://said.pw/tags/software/</link>
+    <description>Recent content in Software on M Said F</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 05 Jul 2018 06:26:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://said.pw/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Membandingkan 2 Versi Revisi File di Dropbox dan pCloud</title>
+      <link>https://said.pw/post/diff-dropbox-revision/</link>
+      <pubDate>Thu, 05 Jul 2018 06:26:42 +0000</pubDate>
+      
+      <guid>https://said.pw/post/diff-dropbox-revision/</guid>
+      <description>Layanan sinkronisasi seperti Dropbox, OneDrive dan lainnya mempermudah kerja kolaborasi dalam tim. Semua anggota tim dapat senantiasa memiliki versi terbaru dari file tanpa harus saling berkirim email versi terbaru sebagaimana biasa dilakukan di jaman old.
+Namun seringkali kita juga perlu untuk melacak editing/perubahan yang dilakukan oleh rekan tim kepada file tersebut. Untuk dokumen word processor (MS-Office, LibreOffice, Google Docs), sudah ada fasilitas tracking changes. Namun untuk file-file berbasis teks seperti skrip program, readme, atau dokumen latex dan markdown, tidak ada software editor yang mendukung fasilitas track changes sebagaimana dokumen word processor.</description>
+    </item>
+    
+    <item>
+      <title>Pengenalan Latex</title>
+      <link>https://said.pw/post/latex/</link>
+      <pubDate>Tue, 26 Jun 2018 22:59:49 +0700</pubDate>
+      
+      <guid>https://said.pw/post/latex/</guid>
+      <description>I. Setup Latex 1. Latex Online Siap Pakai  Sharelatex: dropbox sync (paid), track changes (paid) Overleaf: free unlimited collaborators, project versioning (manual free, automatic paid) and diff, free import bib from zotero,mendeley,and citeulike, free git  2. Install Latex di Komputer  Latex Engine  Tinytex (windows/mac/linux) Miktex  Editor  Editor khusus LaTeX: TexMaker, TexStudio Advanced text editor dengan add-on latex (emacs, vim, sublime, dll) Simple text editor seperti Notepad   II.</description>
+    </item>
+    
+  </channel>
+</rss>

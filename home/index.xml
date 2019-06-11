@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on M Said F</title>
+    <link>https://said.pw/home/</link>
+    <description>Recent content in Homes on M Said F</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://said.pw/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://said.pw/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://said.pw/home/about/</guid>
+      <description>Biography Muhamad Said Fathurrohman is a lecturer at Faculty of Economics and Business, Universitas Airlangga, Indonesia. He has been taking a leave since 2011 to earn master and doctoral degree in economics at Georgia State University, USA.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://said.pw/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://said.pw/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://said.pw/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://said.pw/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://said.pw/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://said.pw/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://said.pw/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://said.pw/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://said.pw/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://said.pw/home/teaching/</guid>
+      <description> Econometrics Statistics for Economics and Business Islamic Microeconomics Islamic Macroeconomics Islamic Financial Institutions  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://said.pw/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://said.pw/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://said.pw/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://said.pw/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://said.pw/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://said.pw/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
