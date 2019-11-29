@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education on M Said F</title>
-    <link>https://said.pw/categories/education/</link>
-    <description>Recent content in Education on M Said F</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 17 Apr 2019 08:12:43 +0000</lastBuildDate>
-    
-	<atom:link href="https://said.pw/categories/education/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Education | M Said F</title>
+    <link>https://www.msaidf.com/categories/education/</link>
+      <atom:link href="https://www.msaidf.com/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Education</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 17 Apr 2019 08:12:43 +0000</lastBuildDate>
+    <image>
+      <url>https://www.msaidf.com/img/Pasfoto.jpg</url>
+      <title>Education</title>
+      <link>https://www.msaidf.com/categories/education/</link>
+    </image>
     
     <item>
       <title>The Matching Problem at Economics Phd Programs in US</title>
-      <link>https://said.pw/post/the-matching-problem-at-economics-phd-programs-in-us/</link>
+      <link>https://www.msaidf.com/post/the-matching-problem-at-economics-phd-programs-in-us/</link>
       <pubDate>Wed, 17 Apr 2019 08:12:43 +0000</pubDate>
-      
-      <guid>https://said.pw/post/the-matching-problem-at-economics-phd-programs-in-us/</guid>
-      <description>In US, economics PhD students are sorted to different programs through selection criteria including standardized test, motivation letter, and references. This selection is not perfect in ranking the individual abilities, even less in matching the research interests. The motivation letter might describe research interests to help matching the students. However, there is no general rule how much weight is put on the interest matching than the individual abilities shown by standardized test, past academic performance, and reference letter.</description>
+      <guid>https://www.msaidf.com/post/the-matching-problem-at-economics-phd-programs-in-us/</guid>
+      <description>&lt;p&gt;In US, economics PhD students are sorted to different programs through selection criteria including standardized test, motivation letter, and references. This selection is not perfect in ranking the individual abilities, even less in matching the research interests. The motivation letter might describe research interests to help matching the students. However, there is no general rule how much weight is put on the interest matching than the individual abilities shown by standardized test, past academic performance, and reference letter.&lt;/p&gt;
+&lt;p&gt;Economics PhD programs in US have a large course requirement, that on average finished in four or five semesters. PhD students are also required to pass comprehensive exams on core and chosen field courses. It is common for some students failing comprehensive exams. This encourages the program administrators to put large weight on applicants abilities.&lt;/p&gt;
+&lt;p&gt;Unlike in UK, application to economics PhD programs in US do not require pre-written research proposal. It is common for new PhD students to have a vague idea about the topic of their future research. The students are expected to figure out research ideas while attending field courses.&lt;/p&gt;
+&lt;p&gt;Field courses are usually a combination of basic theories in the field and a survey of literatures in various topics. These courses will give general ideas for what topic of research that might be of interest for dissertation.&lt;/p&gt;
+&lt;p&gt;There might be professor&#39;s bias in the selection of topic covered in the field courses s/he teaches. Professors tend to teach what they know well, so the topic covered might focus around the professor&#39;s own research interests. These topics might not be the most interesting topics for some students.&lt;/p&gt;
+&lt;p&gt;The same problem also presents in the dissertation writing. Students who find out that no faculty have the same research interests as theirs have difficult choices. Moving to other programs is very costly. The destination program might require them to take additional courses or to retake the comprehensive exams, or it is hard to get funding for newly move in students.&lt;/p&gt;
+&lt;p&gt;Staying in their program is also costly; the cost might be even bigger. The restriction in the research idea to pursue will limit students&amp;rsquo; research achievement. The unmatched dissertation adviser will limit the useful advice given to students. If this non match results in the delay of dissertation completion, the financial costs might be bigger than moving to other program.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

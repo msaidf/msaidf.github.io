@@ -1,49 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on M Said F</title>
-    <link>https://said.pw/categories/</link>
-    <description>Recent content in Categories on M Said F</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    
-	<atom:link href="https://said.pw/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Categories | M Said F</title>
+    <link>https://www.msaidf.com/categories/</link>
+      <atom:link href="https://www.msaidf.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 17 Apr 2019 08:12:43 +0000</lastBuildDate>
+    <image>
+      <url>https://www.msaidf.com/img/Pasfoto.jpg</url>
+      <title>Categories</title>
+      <link>https://www.msaidf.com/categories/</link>
+    </image>
     
     <item>
       <title>Education</title>
-      <link>https://said.pw/categories/education/</link>
+      <link>https://www.msaidf.com/categories/education/</link>
       <pubDate>Wed, 17 Apr 2019 08:12:43 +0000</pubDate>
-      
-      <guid>https://said.pw/categories/education/</guid>
+      <guid>https://www.msaidf.com/categories/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge</title>
-      <link>https://said.pw/categories/knowledge/</link>
+      <link>https://www.msaidf.com/categories/knowledge/</link>
       <pubDate>Wed, 17 Apr 2019 08:12:43 +0000</pubDate>
-      
-      <guid>https://said.pw/categories/knowledge/</guid>
+      <guid>https://www.msaidf.com/categories/knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Labor</title>
-      <link>https://said.pw/categories/labor/</link>
+      <link>https://www.msaidf.com/categories/labor/</link>
       <pubDate>Wed, 17 Apr 2019 08:12:43 +0000</pubDate>
-      
-      <guid>https://said.pw/categories/labor/</guid>
+      <guid>https://www.msaidf.com/categories/labor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pendidikan</title>
-      <link>https://said.pw/categories/pendidikan/</link>
+      <link>https://www.msaidf.com/categories/pendidikan/</link>
       <pubDate>Wed, 17 Apr 2019 08:12:43 +0000</pubDate>
-      
-      <guid>https://said.pw/categories/pendidikan/</guid>
+      <guid>https://www.msaidf.com/categories/pendidikan/</guid>
       <description></description>
     </item>
     

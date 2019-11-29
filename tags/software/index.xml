@@ -1,34 +1,207 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on M Said F</title>
-    <link>https://said.pw/tags/software/</link>
-    <description>Recent content in Software on M Said F</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 05 Jul 2018 06:26:42 +0000</lastBuildDate>
-    
-	<atom:link href="https://said.pw/tags/software/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Software | M Said F</title>
+    <link>https://www.msaidf.com/tags/software/</link>
+      <atom:link href="https://www.msaidf.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 05 Jul 2018 06:26:42 +0000</lastBuildDate>
+    <image>
+      <url>https://www.msaidf.com/img/Pasfoto.jpg</url>
+      <title>Software</title>
+      <link>https://www.msaidf.com/tags/software/</link>
+    </image>
     
     <item>
       <title>Membandingkan 2 Versi Revisi File di Dropbox dan pCloud</title>
-      <link>https://said.pw/post/diff-dropbox-revision/</link>
+      <link>https://www.msaidf.com/post/diff-dropbox-revision/</link>
       <pubDate>Thu, 05 Jul 2018 06:26:42 +0000</pubDate>
-      
-      <guid>https://said.pw/post/diff-dropbox-revision/</guid>
-      <description>Layanan sinkronisasi seperti Dropbox, OneDrive dan lainnya mempermudah kerja kolaborasi dalam tim. Semua anggota tim dapat senantiasa memiliki versi terbaru dari file tanpa harus saling berkirim email versi terbaru sebagaimana biasa dilakukan di jaman old.
-Namun seringkali kita juga perlu untuk melacak editing/perubahan yang dilakukan oleh rekan tim kepada file tersebut. Untuk dokumen word processor (MS-Office, LibreOffice, Google Docs), sudah ada fasilitas tracking changes. Namun untuk file-file berbasis teks seperti skrip program, readme, atau dokumen latex dan markdown, tidak ada software editor yang mendukung fasilitas track changes sebagaimana dokumen word processor.</description>
+      <guid>https://www.msaidf.com/post/diff-dropbox-revision/</guid>
+      <description>&lt;p&gt;Layanan sinkronisasi seperti &lt;a href=&#34;https://db.tt/fIoPf32j&#34;&gt;Dropbox&lt;/a&gt;, OneDrive dan lainnya mempermudah kerja kolaborasi dalam tim. Semua anggota tim dapat senantiasa memiliki versi terbaru dari file tanpa harus saling berkirim email versi terbaru sebagaimana biasa dilakukan di jaman old.&lt;/p&gt;
+&lt;p&gt;Namun seringkali kita juga perlu untuk melacak editing/perubahan yang dilakukan oleh rekan tim kepada file tersebut. Untuk dokumen word processor (MS-Office, LibreOffice, Google Docs), sudah ada fasilitas tracking changes. Namun untuk file-file berbasis teks seperti skrip program, readme, atau dokumen latex dan markdown, tidak ada software editor yang mendukung fasilitas track changes sebagaimana dokumen word processor.&lt;/p&gt;
+&lt;p&gt;Sebagai alternatif untuk track changes, aplikasi diff/compare bisa digunakan untuk membandingkan dua teks atau lebih. Akan tetapi ini memerlukan file berbeda untuk tiap versi yang dibandingkan. Sementara dalam alur kerja menggunakan sinkronisasi, editing tidak menghasilkan file baru, walau versi lama masih tersimpan hingga waktu tertentu. Kita bisa secara manual mengunduh versi lama untuk dibandingkan dengan versi sekarang atau versi lama lainnya.&lt;/p&gt;
+&lt;p&gt;Tentu akan lebih mudah jika kita bisa langsung membandingkan antar versi tanpa harus mengunduh terlebih dulu. Beruntung ada aplikasi untuk itu berupa ekstensi browser Chrome bernama CloudDiff. Aplikasi ini dapat membandingkan antar versi file di &lt;a href=&#34;https://db.tt/fIoPf32j&#34;&gt;Dropbox&lt;/a&gt; dan &lt;a href=&#34;https://my.pcloud.com/#page=register&amp;amp;invite=ppa2ZaDkvby&#34;&gt;pCloud&lt;/a&gt;. Saya belum menemukan aplikasi semacam ini untuk Google Drive dan OneDrive.&lt;/p&gt;
+&lt;h2 id=&#34;cara-setup-clouddiff&#34;&gt;Cara setup CloudDiff&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Buka link berikut di browser Google Chrome dan klik tombol Add to Chrome. &lt;a href=&#34;https://chrome.google.com/webstore/detail/clouddiff/hlmlielnekakcdfpkbgcpnphenleogfp&#34;&gt;https://chrome.google.com/webstore/detail/clouddiff/hlmlielnekakcdfpkbgcpnphenleogfp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Install &lt;a href=&#34;https://bitbucket.org/vshih/clouddiff-helper/downloads/clouddiff-helper_windows.exe&#34;&gt;https://bitbucket.org/vshih/clouddiff-helper/downloads/clouddiff-helper_windows.exe&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;cara-menggunakan-clouddiff&#34;&gt;Cara menggunakan CloudDiff&lt;/h2&gt;
+&lt;p&gt;Setelah itu jika anda melihat Revision History dari suatu file di &lt;a href=&#34;https://db.tt/fIoPf32j&#34;&gt;Dropbox&lt;/a&gt; atau &lt;a href=&#34;https://my.pcloud.com/#page=register&amp;amp;invite=ppa2ZaDkvby&#34;&gt;pCloud&lt;/a&gt;, akan ada 2 check radio button di sebelah kiri tiap versi. Pilih 2 versi yang ingin dibandingkan dengan mencek radio button sebelah kiri untuk versi yang ingin ditampilkan di sebelah kiri, dan radio button sebelah kanan untuk versi yang ingin ditampilkan di sebelah kanan. Lalu klik tombol Inline.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://d2mxuefqeaa7sj.cloudfront.net/s_EC57CC8791B30B808B9A73C9508C27079FD0F9B76E77FE8A90890E80EB795C19_1530382926028_img_20180630_165853.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;maka hasil perbandingannya akan nampak seperti di bawah ini.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://d2mxuefqeaa7sj.cloudfront.net/s_EC57CC8791B30B808B9A73C9508C27079FD0F9B76E77FE8A90890E80EB795C19_1530382992638_IMG_20180630_170047.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sementara untuk tombol Diff sendiri akan membuka aplikasi diff eksternal yang terinstal di komputer. Untuk mensetup-nya, ikuti petunjuk nomor 2-4 di option ekstensi CloudDiff.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://d2mxuefqeaa7sj.cloudfront.net/s_EC57CC8791B30B808B9A73C9508C27079FD0F9B76E77FE8A90890E80EB795C19_1530383336046_IMG_20180630_170142.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Pengenalan Latex</title>
-      <link>https://said.pw/post/latex/</link>
+      <link>https://www.msaidf.com/post/latex/</link>
       <pubDate>Tue, 26 Jun 2018 22:59:49 +0700</pubDate>
+      <guid>https://www.msaidf.com/post/latex/</guid>
+      <description>&lt;h2 id=&#34;i-setup-latex&#34;&gt;I. Setup Latex&lt;/h2&gt;
+&lt;h4 id=&#34;1-latex-online-siap-pakai&#34;&gt;1. Latex Online Siap Pakai&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sharelatex.com?r=612d83fd&amp;amp;rm=d&amp;amp;rs=b&#34;&gt;Sharelatex&lt;/a&gt;: dropbox sync (paid), track changes (paid)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.overleaf.com&#34;&gt;Overleaf&lt;/a&gt;: free unlimited collaborators, project versioning (manual free, automatic paid) and diff, free import bib from zotero,mendeley,and citeulike, free git&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-install-latex-di-komputer&#34;&gt;2. Install Latex di Komputer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Latex Engine
+&lt;ul&gt;
+&lt;li&gt;Tinytex (&lt;a href=&#34;https://github.com/yihui/tinytex/raw/master/tools/install-windows.bat&#34;&gt;windows&lt;/a&gt;/&lt;a href=&#34;https://github.com/yihui/tinytex/raw/master/tools/install-unx.sh&#34;&gt;mac&lt;/a&gt;/&lt;a href=&#34;https://github.com/yihui/tinytex/raw/master/tools/install-unx.sh&#34;&gt;linux&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://miktex.org/download&#34;&gt;Miktex&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Editor
+&lt;ul&gt;
+&lt;li&gt;Editor khusus LaTeX: &lt;a href=&#34;http://www.xm1math.net/texmaker/download.html&#34;&gt;TexMaker&lt;/a&gt;, &lt;a href=&#34;https://www.texstudio.org/&#34;&gt;TexStudio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Advanced text editor dengan add-on latex (emacs, vim, sublime, dll)&lt;/li&gt;
+&lt;li&gt;Simple text editor seperti Notepad&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ii-template-dokumen&#34;&gt;II. Template Dokumen&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;% Pembuka
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\documentclass&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[12pt, a4paper, twocolumn]&lt;/span&gt;{article} &lt;span style=&#34;color:#75715e&#34;&gt;% font 12 pt, kertas A4, 2 kolom per halaman, format artikel jurnal
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\usepackage&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[utf8]&lt;/span&gt;{inputenc}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\usepackage&lt;/span&gt;{amsmath} &lt;span style=&#34;color:#75715e&#34;&gt;% pengaturan format persamaan
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\usepackage&lt;/span&gt;{graphicx} &lt;span style=&#34;color:#75715e&#34;&gt;% pengaturan grafik
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\usepackage&lt;/span&gt;{setspace} &lt;span style=&#34;color:#75715e&#34;&gt;% bisa menentukan spasi antar baris
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\usepackage&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[a4paper,top=3cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]&lt;/span&gt;{geometry}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\usepackage&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[colorinlistoftodos]&lt;/span&gt;{todonotes}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\usepackage&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[colorlinks=true, allcolors=blue]&lt;/span&gt;{hyperref}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\usepackage&lt;/span&gt;{natbib} &lt;span style=&#34;color:#75715e&#34;&gt;% menyediakan berbagai format referensi
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\bibliographystyle&lt;/span&gt;{apalike} &lt;span style=&#34;color:#75715e&#34;&gt;% format referensi APA
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;% Judul
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\title&lt;/span&gt;{Judul}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\author&lt;/span&gt;{author &lt;span style=&#34;color:#66d9ef&#34;&gt;\thanks&lt;/span&gt;{funded by funder}} &lt;span style=&#34;color:#75715e&#34;&gt;% thanks akan jadi footnote
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\date&lt;/span&gt;{&lt;span style=&#34;color:#66d9ef&#34;&gt;\today&lt;/span&gt;} &lt;span style=&#34;color:#75715e&#34;&gt;% \today otomatis mengisi dengan tanggal pdf di-compile, bisa diganti manual dengan string
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;% Isi
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{document}
+
+&lt;span style=&#34;color:#75715e&#34;&gt;%\begin{title} % jika ingin halaman judul terpisah
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\maketitle&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;% print judul
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;% \end{title}  % jika ingin halaman judul terpisah
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{abstract}
+abcdefg
+
+hijklmn
+
+Keywords: First keyword, second keyword, third keyword
+
+JEL Classification: XXX, XXX
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{abstract}
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\tableofcontents&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;% daftar isi
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\section&lt;/span&gt;{Pendahuluan}
+aaaaaaaaaa
+aaaa
+
+bbbbbbbbbbbbb
+bbbb
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\section&lt;/span&gt;{Tinjauan Literatur}
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\citet&lt;/span&gt;{bibkey)
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\citet&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[lihat]&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[bab 2]&lt;/span&gt;{bibkey}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\citet&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[misal]&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[]&lt;/span&gt;{bibkey}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\citet&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[hal. 10]&lt;/span&gt;{bibkey}
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{quote}
+ccccccccccccccc
+
+ddddddddddd &lt;span style=&#34;color:#66d9ef&#34;&gt;\citep&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[hal. 10]&lt;/span&gt;{bibkey}. 
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{quote}
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\citep&lt;/span&gt;{bibkey)
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\citep&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[lihat]&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[bab 2]&lt;/span&gt;{bibkey}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\citep&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[misal]&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[]&lt;/span&gt;{bibkey}
+
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\section&lt;/span&gt;{Metode}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\subsection&lt;/span&gt;{Data}
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{enumerate}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt; Like this,
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt; and like this.
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{enumerate}
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\dots&lt;/span&gt; or bullet points &lt;span style=&#34;color:#66d9ef&#34;&gt;\dots&lt;/span&gt;
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{itemize}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt; Like this,
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt; and like this.
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{itemize}
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\subsection&lt;/span&gt;{Model}
+
+Let &lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt;X_&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, X_&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;, \ldots, X_n&lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt; be a sequence of independent and identically distributed random variables with &lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt;\text{E}&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;X_i&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; \mu&lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt; and &lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt;\text{Var}&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;X_i&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; \sigma^&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &amp;lt; \infty&lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt;, and let
+
+&lt;span style=&#34;color:#e6db74&#34;&gt;\[&lt;/span&gt;S_n &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; \frac{X_&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; X_&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; \cdots &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; X_n}{n}
+      &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; \frac{&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;}{n}\sum_{i}^{n} X_i&lt;span style=&#34;color:#e6db74&#34;&gt;\]&lt;/span&gt;
       
-      <guid>https://said.pw/post/latex/</guid>
-      <description>I. Setup Latex 1. Latex Online Siap Pakai  Sharelatex: dropbox sync (paid), track changes (paid) Overleaf: free unlimited collaborators, project versioning (manual free, automatic paid) and diff, free import bib from zotero,mendeley,and citeulike, free git  2. Install Latex di Komputer  Latex Engine  Tinytex (windows/mac/linux) Miktex  Editor  Editor khusus LaTeX: TexMaker, TexStudio Advanced text editor dengan add-on latex (emacs, vim, sublime, dll) Simple text editor seperti Notepad   II.</description>
+atau dibuat 2 baris
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{equation}
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{align}
+S_n &amp;amp;= &lt;span style=&#34;color:#66d9ef&#34;&gt;\frac&lt;/span&gt;{X_1 + X_2 + &lt;span style=&#34;color:#66d9ef&#34;&gt;\cdots&lt;/span&gt; + X_n}{n} &lt;span style=&#34;color:#66d9ef&#34;&gt;\\&lt;/span&gt;
+    &amp;amp;= &lt;span style=&#34;color:#66d9ef&#34;&gt;\frac&lt;/span&gt;{1}{n}&lt;span style=&#34;color:#66d9ef&#34;&gt;\sum&lt;/span&gt;_{i}^{n} X_i
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{align}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{equation}
+
+denote their mean. Then as &lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt;n&lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt; approaches infinity, the random variables &lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt;\sqrt{n}&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;S_n &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; \mu&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt; converge in distribution to a normal &lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt;\mathcal{N}&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, \sigma^&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;$&lt;/span&gt;.
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\section&lt;/span&gt;{Hasil}
+see Table~&lt;span style=&#34;color:#66d9ef&#34;&gt;\ref&lt;/span&gt;{tab:widgets}, for example. 
+
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\section&lt;/span&gt;{Simpulan}
+
+&lt;span style=&#34;color:#75715e&#34;&gt;% print referensi yang dikutip bibkey merujuk pada satu atau lebih bibfile
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\bibliography&lt;/span&gt;{`/path ke/bib file 1`, /path/ke/bibfile2, bibfile3} 
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\newpage&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;% di bawah ini akan dicetak pada halaman baru
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\appendix&lt;/span&gt;
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\section&lt;/span&gt;{Tables} 
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\input&lt;/span&gt;{.. /tables/table1} 
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{table}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\centering&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{tabular}{r|l c}
+
+Item &amp;amp; Quantity &amp;amp; Price  &lt;span style=&#34;color:#66d9ef&#34;&gt;\\&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\hline&lt;/span&gt;
+Widgets &amp;amp; 42 &amp;amp; 10&lt;span style=&#34;color:#66d9ef&#34;&gt;\\&lt;/span&gt;
+Gadgets &amp;amp; 13 &amp;amp; 25
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{tabular}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\caption&lt;/span&gt;{&lt;span style=&#34;color:#66d9ef&#34;&gt;\label&lt;/span&gt;{tab:widgets}An example table.}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{table}
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\section&lt;/span&gt;{Figures} 
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{figure}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\centering&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\includegraphics&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[width=0.3\textwidth]&lt;/span&gt;{frog.jpg}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\caption&lt;/span&gt;{&lt;span style=&#34;color:#66d9ef&#34;&gt;\label&lt;/span&gt;{fig:frog}This frog was uploaded via the project menu.}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{figure}
+
+
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{document}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
   </channel>

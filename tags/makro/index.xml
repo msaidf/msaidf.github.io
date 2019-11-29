@@ -1,45 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Makro on M Said F</title>
-    <link>https://said.pw/tags/makro/</link>
-    <description>Recent content in Makro on M Said F</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 16 Apr 2019 06:26:42 +0000</lastBuildDate>
-    
-	<atom:link href="https://said.pw/tags/makro/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Makro | M Said F</title>
+    <link>https://www.msaidf.com/tags/makro/</link>
+      <atom:link href="https://www.msaidf.com/tags/makro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Makro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 16 Apr 2019 06:26:42 +0000</lastBuildDate>
+    <image>
+      <url>https://www.msaidf.com/img/Pasfoto.jpg</url>
+      <title>Makro</title>
+      <link>https://www.msaidf.com/tags/makro/</link>
+    </image>
     
     <item>
       <title>Ekonomika Akad Sukuk Ijarah</title>
-      <link>https://said.pw/post/akad-sukuk-ritel-negara/</link>
+      <link>https://www.msaidf.com/post/akad-sukuk-ritel-negara/</link>
       <pubDate>Tue, 16 Apr 2019 06:26:42 +0000</pubDate>
-      
-      <guid>https://said.pw/post/akad-sukuk-ritel-negara/</guid>
-      <description>Penerbitan Sukuk Ritel menggunakan struktur akad Ijarah — Asset to be Leased. Dana hasil penerbitan akan digunakan untuk kegiatan investasi berupa pembelian hak manfaat Barang Milik Negara untuk disewakan kepada Pemerintah serta pengadaan proyek untuk disewakan kepada Pemerintah.
- Kutipan di atas saya ambil dari halaman sukuk ritel di Kemenkeu. Berdasar kutipan itu, ada dua alternatif jenis akad/transaksi digunakan sebagai dasar penerbitan sukuk. pembelian hak manfaat Barang Milik Negara untuk disewakan kepada Pemerintah.</description>
+      <guid>https://www.msaidf.com/post/akad-sukuk-ritel-negara/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Penerbitan Sukuk Ritel menggunakan struktur akad Ijarah — Asset to be Leased. Dana hasil penerbitan akan digunakan untuk kegiatan investasi berupa pembelian hak manfaat Barang Milik Negara untuk disewakan kepada Pemerintah serta pengadaan proyek untuk disewakan kepada Pemerintah.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Kutipan di atas saya ambil dari halaman sukuk ritel di Kemenkeu. Berdasar kutipan itu, ada dua alternatif jenis akad/transaksi digunakan sebagai dasar penerbitan sukuk.
+pembelian hak manfaat Barang Milik Negara untuk disewakan kepada Pemerintah.
+pengadaan proyek untuk disewakan kepada Pemerintah.&lt;/p&gt;
+&lt;p&gt;Basis akad kedua relatif sederhana. Uang dari penjualan sukuk akan digunakan untuk mendanai suatu proyek, yang hasilnya disewakan kepada pemerintah. Dengan demikian, kepemilikan aset hasil proyek ada pada pemegang sukuk. Pemerintah hanya menyewa. Namun biasanya, aset hasil proyek tersebut pada akhirnya akan dijual ke pemerintah. Dan biasanya ketentuan jual beli di akhir periode itu juga menjadi bagian perjanjian sukuk sejak awal. Dengan kata lain, sukuk itu adalah suatu akad sewa beli, bukan sewa saja sebagaimana tertera pada keterangan di atas.&lt;/p&gt;
+&lt;p&gt;Yang berpotensi membingungkan dan menjadi masalah adalah basis akad pertama. Untuk awal, kita pastikan dulu apa yang dimaksud dengan Barang Milik Negara. Menurut Undang-undang nomor 19 tahun 2008 tentang Surat Berharga Syariah Negara pasal 1 poin 4,&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Barang Milik Negara adalah semua barang yang dibeli atau diperoleh atas beban Anggaran Pendapatan dan Belanja Negara atau berasal dari perolehan lainnya yang sah.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Selanjutnya, kita lihat juga definisi dari hak manfaat di UU dan pasal yang sama, di poin 16.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hak Manfaat adalah hak untuk memiliki dan mendapatkan hak penuh atas pemanfaatan suatu aset tanpa perlu dilakukan pendaftaran atas kepemilikan dan hak tersebut&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Melalui penerbitan sukuk, pemerintah menjual hak manfaat Barang Milik Negara tersebut pada pemegang sukuk. Pada dasarnya, yang dimaksud dengan menjual hak manfaat suatu aset adalah menyewakannya karena kepemilikan tidak berpindah.&lt;/p&gt;
+&lt;p&gt;Sampai di sini masih cukup sederhana, hanya perlu mengklarifikasi makna dari istilah hukum. Namun akadnya tidak berhenti di akad sewa dari penerbit ke pemegang sukuk. Setelah itu, pemegang sukuk menyewakan kembali Barang Milik Negara yang disewanya ke pemerintah. Di sinilah letak kerumitan dan masalah dengan akad sukuk.&lt;/p&gt;
+&lt;p&gt;Dalam kasus penyewaan normal, jika kontrak sewa sudah terjadi namun pemilik barang ingin menggunakan barang yang sudah disewa, maka ia bisa membatalkan sewanya, mungkin dengan denda tertentu sesuai kesepakatan atau sudah ditentukan sebelumnya dalam perjanjian sewa. Sewa balik bisa menjadi alternatif solusi selain pembatalan sewa awal.&lt;/p&gt;
+&lt;p&gt;Terlepas dari cara yang digunakan, penggunaan kembali aset yang disewakan oleh pemilik aset tidak direncanakan sejak awal. Tidak ada alasan bagi pemilik suatu aset untuk menyewakan asetnya jika tahu sejak awal dirinya akan memerlukan aset itu. Dengan terlebih dulu menyewakan aset itu, pemilik harus membayar denda atau membayar sewa balik lebih tinggi dari pendapatan sewanya.&lt;/p&gt;
+&lt;p&gt;Satu-satunya “kelebihan” dari menyewakan dan menyewa balik ini adalah jika ada perbedaan waktu antara penerimaan uang pendapatan sewa dengan pembayaran biaya sewa balik. Dalam kasus sukuk ini, pemilik aset memperoleh uang sewa untuk jangka waktu yang ditentukan di awal periode sewa, namun membayar sewa balik secara periodik atau hanya di akhir periode sewa.&lt;/p&gt;
+&lt;p&gt;Pada dasarnya, manfaat yang dicari oleh penerbit sukuk adalah manfaat memperoleh uang di awal dari pendapatan sewa, dengan biaya pembayaran sewa yang lebih tinggi di kemudian hari. Jika memang ini yang sebenarnya dibutuhkan penerbit sukuk, hal tersebut bisa juga diperoleh dengan melakukan pinjaman. Jika hanya menilik kepentingan penerbit sukuk, pinjaman bisa lebih sederhana karena tidak selalu harus menyertakan aset. Aset dilibatkan dalam pinjaman sebagai jaminan untuk mengurangi risiko kerugian pemberi pinjaman.&lt;/p&gt;
+&lt;p&gt;Perbedaan status aset sebagai jaminan dalam pinjaman dan sebagai aset yang disewakan dalam sukuk ini adalah pada kasus sukuk, aset tidak bisa dilikuidasi ketika terjadi kemacetan pembayaran sewa balik dari penerbit sukuk. Karena pembeli sukuk hanya memiliki hak manfaat atas aset tersebut, mereka hanya bisa mengalihkan sewa tersebut ke pihak selain penerbit sukuk. Bahwa pengalihan ini akan menguntungkan/merugikan penerbit sukuk tergantung dari besarnya nilai sewa baru dibandingkan nilai sewa balik ke penerbit sukuk.&lt;/p&gt;
+&lt;p&gt;Perbedaan status aset underlying inilah hemat saya yang menjadi satu-satunya keunggulan sukuk dibandingkan pinjaman dengan agunan. Penerbit sukuk tidak berisiko kehilangan kepemilikan barang jika gagal bayar sebagaimana pinjaman dengan agunan. Di sisi lain, pembeli sukuk masih memiliki hak penggunaan aset jika penerbit sukuk tidak membayar sewanya.&lt;/p&gt;
+&lt;p&gt;Di luar perbedaan status aset underlying ini, tidak ada perbedaan berarti antara sukuk dan pinjaman dengan agunan. Ini menyisakan dua pertanyaan yang saling berkaitan.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Apakah perbedaan ini cukup penting bagi investor yang tidak peduli dengan status syariah produk keuangan?&lt;/li&gt;
+&lt;li&gt;Apakah perbedaan ini sudah cukup menjadi dasar perbedaan hukum yang diterapkan pada sukuk dan pinjaman berbunga?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Insya Allah saya akan coba menjawab dua pertanyaan tersebut di lain waktu.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>The Fed, Uang Panas, Dan Kontrol Modal</title>
-      <link>https://said.pw/post/the-fed-uang-panas-dan-kontrol-modal/</link>
+      <link>https://www.msaidf.com/post/the-fed-uang-panas-dan-kontrol-modal/</link>
       <pubDate>Sun, 29 Nov 2015 03:43:43 +0000</pubDate>
-      
-      <guid>https://said.pw/post/the-fed-uang-panas-dan-kontrol-modal/</guid>
-      <description>Kabar baik untuk satu negara belum tentu menjadi kabar baik untuk negara lain. Demikianlah gambaran hubungan antara perekonomian besar, seperti Amerika Serikat, dan perekonomian yang lebih kecil, seperti Indonesia. Ekonomi Amerika telah menunjukkan kepulihan dari resesi besar yang mendera sejak 2008. Tingkat pengangguran telah kembali ke level sebelum krisis, mencapai 5 persen pada Oktober lalu. Pertumbuhan relatif stabil di kisaran 1,5–2,5 persen sejak 2010.
-Namun pulihnya ekonomi Amerika juga berarti bahwa bank sentral mereka, Federal Reserve (The Fed), punya ruang untuk meningkatkan suku bunga guna mencegah penggelembungan harga aset.</description>
+      <guid>https://www.msaidf.com/post/the-fed-uang-panas-dan-kontrol-modal/</guid>
+      <description>&lt;p&gt;Kabar baik untuk satu negara belum tentu menjadi kabar baik untuk negara lain. Demikianlah gambaran hubungan antara perekonomian besar, seperti Amerika Serikat, dan perekonomian yang lebih kecil, seperti Indonesia. Ekonomi Amerika telah menunjukkan kepulihan dari resesi besar yang mendera sejak 2008. Tingkat pengangguran telah kembali ke level sebelum krisis, mencapai 5 persen pada Oktober lalu. Pertumbuhan relatif stabil di kisaran 1,5–2,5 persen sejak 2010.&lt;/p&gt;
+&lt;p&gt;Namun pulihnya ekonomi Amerika juga berarti bahwa bank sentral mereka, Federal Reserve (The Fed), punya ruang untuk meningkatkan suku bunga guna mencegah penggelembungan harga aset.&lt;/p&gt;
+&lt;p&gt;Sejak tahun lalu, The Fed telah menyadari pembentukan gelembung di pasar obligasi yang memiliki rating kredit rendah. Gelembung juga dikhawatirkan akan kembali terjadi pada pasar perumahan, yang tingkat harganya sudah kembali ke level sebelum krisis 2008. Indeks pasar saham yang jauh lebih tinggi dari level sebelum krisis juga ada kemungkinan merupakan dampak dari kredit yang terlalu murah.&lt;/p&gt;
+&lt;p&gt;Jika The Fed menaikkan suku bunga, nilai tukar dolar akan menguat terhadap rupiah. Bahkan, penguatan dolar itu akan terjadi sebelum kebijakan itu diambil, sebagaimana yang terjadi pada Agustus-September lalu.&lt;/p&gt;
+&lt;p&gt;Meski demikian, masyarakat tidak perlu cemas bahwa kurs dolar akan naik tak terkendali, sehingga menyebabkan krisis, sebagaimana pada 1998. Pelaku pasar uang telah lama mengantisipasi kebijakan kenaikan suku bunga ini. Kurs dolar tidak akan lagi mengalami loncatan terlalu tinggi ketika nanti The Fed benar-benar mengumumkan kenaikan suku bunga tersebut.&lt;/p&gt;
+&lt;p&gt;Ketahanan ekonomi Indonesia telah dibuktikan di tengah resesi global 2008-saat itu kurs dolar sempat melonjak dari Rp 9.000-an hingga menembus Rp 12 ribu dalam jangka waktu sekitar dua bulan. Tapi pertumbuhan ekonomi tetap di atas 4 persen dan tingkat pengangguran masih terus menurun.&lt;/p&gt;
+&lt;p&gt;Sambil tetap optimistis menatap masa depan, kita perlu mengambil pelajaran dari pergerakan kurs dolar dan fenomena ekonomi yang menyertainya. Fenomena belakangan ini masih merupakan kelanjutan dari episode resesi global dan merupakan perpanjangan dari kebijakan anti-krisis Amerika.&lt;/p&gt;
+&lt;p&gt;Ketika The Fed memompakan triliunan dolar ke ekonomi Amerika untuk menurunkan suku bunga dalam merespons resesi 2008, banyak dari dolar ini berkelana ke berbagai negara mencari lahan-lahan investasi yang memberikan imbal hasil lebih tinggi. Dari situlah kita menyaksikan kurs dolar menurun, dari Rp 12 ribu pada 2009 menjadi Rp 8.500 pada pertengahan 2011.&lt;/p&gt;
+&lt;p&gt;Penguatan nilai tukar rupiah belum tentu merupakan berita gembira. Barang impor memang menjadi murah. Tapi, akibatnya, impor dari Cina meningkat pesat. Aliran besar modal masuk juga membawa konsekuensi meningkatnya arus keluar pembayaran imbalan atas modal tersebut.&lt;/p&gt;
+&lt;p&gt;Sebelum 2012, dua hal itu tidak menimbulkan masalah di neraca pembayaran karena devisa hasil ekspor masih mencukupi. Baru setelah ekspor turun pada 2012, karena Jepang mengalami pelambatan ekonomi, dua masalah di atas terlihat. Sejak saat itu, neraca berjalan terjun menjadi negatif dan kurs dolar kembali merangkak naik.&lt;/p&gt;
+&lt;p&gt;Dari sini kita dapat melihat bahwa arus modal yang masuk sejak resesi global justru menjadi bibit masalah bagi perekonomian Indonesia. Banyak pihak bersepakat bahwa arus investasi portofolio cenderung menciptakan destabilisasi. Tapi upaya mengerem arus investasi portofolio kerap ditentang dengan alasan dapat berimbas menurunkan investasi langsung, yang dapat membawa serta teknologi yang penting untuk mendorong pertumbuhan.&lt;/p&gt;
+&lt;p&gt;Alasan penolakan ini perlu dikritik karena belum tentu semua investasi langsung membawa masuk teknologi strategis. Nyatanya, pangsa ekspor berteknologi tinggi dari ekspor manufaktur justru terus mengalami penurunan sejak 2006 dan kondisi ini tidak berubah setelah investasi langsung meningkat tajam sejak 2010.&lt;/p&gt;
+&lt;p&gt;Bank Indonesia sebenarnya telah menerapkan beberapa disinsentif dan kendali untuk mengerem arus modal masuk sejak 2010. Langkah ini tampaknya sempat membuahkan hasil ketika arus investasi portofolio turun pada 2011. Tapi pada tahun-tahun berikutnya investasi portofolio kembali naik.&lt;/p&gt;
+&lt;p&gt;Tak tercapainya tujuan ini menunjukkan bahwa langkah yang diambil Bank Indonesia belum cukup. Atau, bisa jadi Bank Indonesia justru membiarkan arus modal itu kembali mengalir masuk untuk menutupi defisit neraca berjalan. Bagaimanapun, kurs dolar yang naik dan turun tajam pada Agustus-September lalu menjadi indikasi bahwa arus modal masih mudah berbalik arah.&lt;/p&gt;
+&lt;p&gt;Bank Indonesia sebaiknya tidak setengah-setengah menerapkan kontrol modal. Kontrol tersebut dapat dilonggarkan setelah aliran uang liar berkurang ketika The Fed menarik kembali uang stimulus mereka.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Originally published at &lt;a href=&#34;https://kolom.tempo.co&#34;&gt;https://kolom.tempo.co&lt;/a&gt; on November 29, 2015)&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Mencari Pengganti Dolar</title>
-      <link>https://said.pw/post/mencari-pengganti-dolar/</link>
+      <link>https://www.msaidf.com/post/mencari-pengganti-dolar/</link>
       <pubDate>Sat, 16 May 2009 03:16:49 +0000</pubDate>
-      
-      <guid>https://said.pw/post/mencari-pengganti-dolar/</guid>
-      <description>Pemerintah mulai mengurangi ketergantungan pada dolar dan meragamkan mata uang basis transaksi internasional (Republika, 25&amp;frasl;3). Harapannya, ekonomi domestik akan terhindar dari risiko ketidakstabilan mata uang basis transaksi. Kebijakan ini memiliki kelemahan, yakni berkurangnya fleksibilitas penggunaan devisa untuk keperluan transaksi dengan berbagai negara.
-Pada dasarnya, uang berfungsi sebagai alat perantara pertukaran barang dan jasa. Barang apa pun bisa menjadi uang selama diterima oleh pihak-pihak yang bertransaksi. Pada skala individu, akan jauh lebih mudah bagi seseorang untuk menggunakan satu jenis uang saja yang diterima oleh semua mitra transaksinya.</description>
+      <guid>https://www.msaidf.com/post/mencari-pengganti-dolar/</guid>
+      <description>&lt;p&gt;Pemerintah mulai mengurangi ketergantungan pada dolar dan meragamkan mata uang basis transaksi internasional (Republika, 25/3). Harapannya, ekonomi domestik akan terhindar dari risiko ketidakstabilan mata uang basis transaksi. Kebijakan ini memiliki kelemahan, yakni berkurangnya fleksibilitas penggunaan devisa untuk keperluan transaksi dengan berbagai negara.&lt;/p&gt;
+&lt;p&gt;Pada dasarnya, uang berfungsi sebagai alat perantara pertukaran barang dan jasa. Barang apa pun bisa menjadi uang selama diterima oleh pihak-pihak yang bertransaksi. Pada skala individu, akan jauh lebih mudah bagi seseorang untuk menggunakan satu jenis uang saja yang diterima oleh semua mitra transaksinya.
+Hal sama berlaku pada skala makro. Negara-negara mudah untuk saling bertransaksi jika mereka memiliki satu alat pembayaran yang disepakati. Karena itu, kita dapat melihat, sepanjang sejarah, negara-negara selalu memiliki satu mata uang yang diterima oleh semua.&lt;/p&gt;
+&lt;p&gt;Banyaknya ragam mata uang transaksi berpotensi menghambat perdagangan dan transaksi internasional lainnya. Dapat terjadi ketidaksesuaian di pasar antara mata uang yang kelebihan penawaran dan mata uang yang kelebihan permintaan.&lt;/p&gt;
+&lt;p&gt;Mata uang negara yang neraca perdagangannya defisit cenderung kelebihan permintaan. Sebaliknya, mata uang yang neraca perdagangannya positif cenderung kelebihan pasokan.
+Dalam sistem alat pembayaran internasional tunggal, defisit kita dengan suatu negara dapat dibayar dengan surplus kita dari negara lain. Jika pemerintah jadi mengadopsi rencana peragaman mata uang, transaksi internasional dan pertumbuhan ekonomi akan terhambat.&lt;/p&gt;
+&lt;p&gt;Namun, mata uang tunggal tidak bisa memfasilitasi perdagangan dengan baik jika nilainya tidak menentu. Dolar kini sulit diandalkan kestabilannya karena situasi dan kebijakan ekonomi Amerika Serikat (AS) masih tidak menentu. Dulu, dolar menguat karena penarikan dana lembaga-lembaga keuangan asing. Ke depan, dolar cenderung melemah dengan adanya penerbitan baru dolar dalam jumlah besar untuk membiayai defisit anggaran AS.
+Banyak negara mulai mengalihkan devisanya ke euro. Untuk saat ini, euro mungkin pilihan yang lebih baik daripada dolar. Tetapi, suatu saat, krisis ekonomi juga bisa melanda Uni Eropa.&lt;/p&gt;
+&lt;p&gt;Apakah kita cukup sekadar mengganti mata uang basis transaksi internasional setiap kali negara penerbit mata uang tersebut mengalami krisis? Penggantian mata uang internasional bukannya tanpa biaya.&lt;/p&gt;
+&lt;p&gt;Pada saat konversi terjadi, mata uang lama akan terdepresiasi karena pasokannya membludak tiba-tiba. Sebaliknya, mata uang baru akan terapresiasi karena permintaan meningkat pesat. Negara yang telah menumpukkan cadangan devisa dalam mata uang lama akan rugi karena nilainya turun jika diukur dengan mata uang baru.&lt;/p&gt;
+&lt;h1 id=&#34;mata-uang-internasional&#34;&gt;Mata uang internasional&lt;/h1&gt;
+&lt;p&gt;Dolar AS disepakati menjadi mata uang internasional pada konferensi Bretton Woods di bulan Juli 1944. Pemilihan dolar AS merupakan pertengahan antara sistem nilai tukar mengambang yang penuh ketidakpastian dan menghambat perdagangan internasional dengan standar emas yang terlalu restriktif.&lt;/p&gt;
+&lt;p&gt;Pada sistem ini, negara-negara sepakat untuk mematok nilai tukar mata uangnya terhadap dolar AS. Di sisi lain, Amerika Serikat menjamin konvertibilitas dolar terhadap emas yang waktu itu pada level 35 dolar AS per ons emas.
+Robert Triffin (1960) menangkap dilema yang dihadapi oleh AS dengan sistem ini. Ia berpendapat bahwa mata uang suatu negara tidak dapat bertahan sebagai alat pembayaran internasional.&lt;/p&gt;
+&lt;p&gt;AS harus terus mengalami defisit neraca perdagangan untuk memenuhi kebutuhan dolar masyarakat internasional. Di sisi lain, meningkatnya pasokan dolar di luar negeri melemahkan nilai tukar dolar AS terhadap emas di negara lain. Selisih ini mendorong arus keluarnya emas besar-besaran dari AS.&lt;/p&gt;
+&lt;p&gt;Pada Agustus 1971, Pemerintah AS di bawah presiden Nixon menghentikan konvertibilitas dolar terhadap emas. Akibatnya, nilai tukar dolar terhadap emas dan komoditas lain merosot. Negara lain terpaksa memutuskan patokan nilai tukar mata uang mereka ke dolar untuk mencegah penularan inflasi AS ke perekonomian domestik. Sejak saat itu, sistem nilai tukar dunia kembali ke rezim mengambang.&lt;/p&gt;
+&lt;p&gt;Walau sudah tidak lagi menjadi patokan, dolar AS tetap menjadi mata uang utama transaksi internasional dan komponen mayoritas cadangan devisa semua negara. Hal ini disebabkan transaksi internasional sudah terbiasa dinilai dan dibayar dengan dolar. Selain itu, dengan skala ekonominya yang besar, AS masih menjadi mitra dagang utama sebagian besar negara.&lt;/p&gt;
+&lt;p&gt;Krisis AS saat ini mengurangi kemenarikan dolar sebagai mata uang internasional. Nilai tukar dolar AS terus berfluktuasi mengikuti perkembangan situasi krisis dan upaya pemulihannya.&lt;/p&gt;
+&lt;h1 id=&#34;kembali-ke-emas&#34;&gt;Kembali ke emas&lt;/h1&gt;
+&lt;p&gt;Selama berabad-abad, negara-negara di dunia saling bertransaksi dengan menggunakan emas sebagai alat pembayaran. Sekalipun menggunakan uang kertas, pemerintah negara penerbitnya menjamin uang kertas tersebut dapat ditukarkan dengan emas.
+Sepanjang sejarah penerapan standar emas, inflasi tinggi jarang terjadi. Inflasi terjadi hanya sewaktu ditemukan sumber emas baru. Secara umum, tingkat produksi emas stabil sehingga jarang terjadi kejutan harga.&lt;/p&gt;
+&lt;p&gt;Penentangan pada standar emas datang dari ekonom penganjur intervensi pemerintah, terutama dari aliran Keynesian. Menurut mereka, standar emas membatasi ruang gerak pemerintah dalam melakukan intervensi. Terutama, dalam situasi resesi, pemerintah perlu mendorong permintaan dengan memasok lebih banyak uang. Mereka juga mengajukan fakta bahwa negara yang lebih dulu meninggalkan standar emas mengalami pemulihan dari depresi besar dengan lebih cepat daripada negara yang belakangan meninggalkan standar emas.
+Ekonom Austrian, dengan tokoh utama Mises dan Hayek, memandang sebab depresi besar dari sisi berbeda. Mereka berpendapat bahwa depresi besar merupakan konsekuensi siklus yang tak terhindarkan setelah ekspansi moneter besar sepanjang Perang Dunia I. Mereka justru menganjurkan kembali ke standar emas untuk mencegah pemerintah mencetak uang tanpa kendali.&lt;/p&gt;
+&lt;h1 id=&#34;alternatif-lain&#34;&gt;Alternatif lain&lt;/h1&gt;
+&lt;p&gt;Keynes sendiri memiliki usulan alternatif mata uang internasional yang disebut dengan bancor. Bancor merupakan mata uang internasional yang nilainya ditetapkan dalam 30 macam komoditas, termasuk emas. Dengan demikian, harga komoditas-komoditas tersebut dalam satuan bancor akan stabil. Usulan Keynes ini tidak pernah direalisasikan sehingga kita tidak bisa mengevaluasi keberhasilannya.&lt;/p&gt;
+&lt;p&gt;Dalam pidatonya pada 23 Maret lalu, Gubernur Bank Rakyat China, Zhou Xiaochuan, menyebutkan, gagasan bancor dari Keynes ini berpandangan jauh ke depan. Mengadopsi gagasan bancor, Zhou mengusulkan pengadopsian Special Drawing Right (SDR) IMF sebagai mata uang internasional. Ia berargumen, karena SDR tidak diterbitkan oleh satu negara, mata uang ini akan terhindar dari dilema Triffin.
+Emas dan bancor ala Keynes atau Zhou sama-sama terhindar dari dilema Triffin. Bancor memiliki keunggulan fleksibilitas pasokan dibandingkan emas. Akan tetapi, produksi bancor yang teregulasi akan tetap menghadapi risiko digunakan untuk kepentingan pihak yang berkuasa.&lt;/p&gt;
+&lt;p&gt;Pada akhirnya, pemilihan mata uang internasional tidak dapat menjadi keputusan sepihak satu negara. Penetapan mata uang internasional harus melalui koordinasi dan kesepakatan antarnegara. Pemerintah Indonesia perlu memanfaatkan forum G20 untuk mengusulkan penataan ulang sistem moneter internasional. Satu hal yang pasti, Indonesia telah memiliki banyak pengalaman buruk dengan dolar.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Originally published at Republika on May 16, 2009)&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

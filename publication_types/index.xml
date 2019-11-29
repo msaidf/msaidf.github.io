@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on M Said F</title>
-    <link>https://said.pw/publication_types/</link>
-    <description>Recent content in Publication_types on M Said F</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    
-	<atom:link href="https://said.pw/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Publication_types | M Said F</title>
+    <link>https://www.msaidf.com/publication_types/</link>
+      <atom:link href="https://www.msaidf.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <image>
+      <url>https://www.msaidf.com/img/Pasfoto.jpg</url>
+      <title>Publication_types</title>
+      <link>https://www.msaidf.com/publication_types/</link>
+    </image>
     
   </channel>
 </rss>
