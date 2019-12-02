@@ -5,12 +5,48 @@
     <link>https://www.msaidf.com/</link>
       <atom:link href="https://www.msaidf.com/index.xml" rel="self" type="application/rss+xml" />
     <description>M Said F</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 02 Dec 2019 21:20:08 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 02 Dec 2019 22:15:45 +0700</lastBuildDate>
     <image>
       <url>https://www.msaidf.com/img/Pasfoto.jpg</url>
       <title>M Said F</title>
       <link>https://www.msaidf.com/</link>
     </image>
+    
+    <item>
+      <title>Podcast Kuliah Ekonomi</title>
+      <link>https://www.msaidf.com/project/podcastkuliahekonomi/</link>
+      <pubDate>Mon, 02 Dec 2019 22:15:45 +0700</pubDate>
+      <guid>https://www.msaidf.com/project/podcastkuliahekonomi/</guid>
+      <description>&lt;p&gt;Saya membuat podcast audio berisi materi pengantar ekonomi dan menerbitkannya di beberapa host podcast seperti &lt;a href=&#34;https://itunes.apple.com/us/podcast/kuliah-online-ekonomi/id1437292524?mt=2&amp;amp;uo=4&#34;&gt;iTunes&lt;/a&gt;, &lt;a href=&#34;https://open.spotify.com/show/1SeOzfx05gNkDkUxxBhrjn&#34;&gt;Spotify&lt;/a&gt;, dan &lt;a href=&#34;https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy82ZmFkNDIwL3BvZGNhc3QvcnNz&#34;&gt;Google Podcast&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seri Video Pengenalan R di Youtube</title>
+      <link>https://www.msaidf.com/project/channelyoutuber/</link>
+      <pubDate>Mon, 02 Dec 2019 22:13:06 +0700</pubDate>
+      <guid>https://www.msaidf.com/project/channelyoutuber/</guid>
+      <description>&lt;p&gt;Saya membuat dan mengupload seri video tutorial R di channel pribadi saya di &lt;a href=&#34;https://youtube.com/msaidf&#34;&gt;https://youtube.com/msaidf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ebook R untuk Statistik dan Ekonometri</title>
+      <link>https://www.msaidf.com/project/ebookstatekr/</link>
+      <pubDate>Mon, 02 Dec 2019 22:07:33 +0700</pubDate>
+      <guid>https://www.msaidf.com/project/ebookstatekr/</guid>
+      <description>&lt;p&gt;Versi pertama dari ebook ini sudah tayang di &lt;a href=&#34;http://www.msaidf.com/statek&#34;&gt;www.msaidf.com/statek&lt;/a&gt; sejak Juli 2019. Buku ini telah mengenalkan cara menggunakan R dalam aplikasi pengelolaan dan analisis data yang paling sering diperlukan. Masih banyak materi yang bisa dan perlu ditambahkan dalam versi berikutnya.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scrap Data dari Website Kemdikbud</title>
+      <link>https://www.msaidf.com/project/scrapkemdikbud/</link>
+      <pubDate>Mon, 02 Dec 2019 22:00:31 +0700</pubDate>
+      <guid>https://www.msaidf.com/project/scrapkemdikbud/</guid>
+      <description>&lt;p&gt;Ketika permintaan data resmi ke Kementerian Pendidikan dan Kebudayaan (Kemdikbud) masih dalam proses, saya bisa mendapatkan sebagian data dari apa yang ditayangkan di website mereka, &lt;a href=&#34;http://www.kemdikbud.go.id&#34;&gt;www.kemdikbud.go.id&lt;/a&gt;. Namun tentunya data ratusan ribu sekolah itu tidak bisa disalin secara manual. Untuk itu saya menulis program R dan menjalankannya di server selama berapa hari hingga seluruh data diperoleh.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Scrap 10 Tahun Postingan Twitter</title>
