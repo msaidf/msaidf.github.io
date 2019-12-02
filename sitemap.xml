@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.msaidf.com/project/dashboard/</loc>
-    <lastmod>2019-12-02T20:32:17+07:00</lastmod>
+    <loc>https://www.msaidf.com/</loc>
+    <lastmod>2019-12-02T21:29:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.msaidf.com/</loc>
+    <loc>https://www.msaidf.com/project/scraptwitter/</loc>
+    <lastmod>2019-12-02T21:29:41+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.msaidf.com/project/dashboard/</loc>
     <lastmod>2019-12-02T20:32:17+07:00</lastmod>
   </url>
   
