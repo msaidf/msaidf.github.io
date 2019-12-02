@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past and Working Projects | M Said F</title>
+    <link>https://www.msaidf.com/project/</link>
+      <atom:link href="https://www.msaidf.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Past and Working Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <image>
+      <url>https://www.msaidf.com/img/Pasfoto.jpg</url>
+      <title>Past and Working Projects</title>
+      <link>https://www.msaidf.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Dashboard Data</title>
+      <link>https://www.msaidf.com/project/dashboard/</link>
+      <pubDate>Mon, 02 Dec 2019 20:19:43 +0700</pubDate>
+      <guid>https://www.msaidf.com/project/dashboard/</guid>
+      <description>&lt;p&gt;Banyaknya data yang dikumpulkan tidak akan banyak membantu jika tidak ada cara mudah untuk mengakses, memfilter, dan menyimpan bagian spesifik dari data yang dibutuhkan. Saya ditugaskan oleh fakultas tempat saya bekerja untuk membuatkan dashboard data yang sangat memudahkan bagi operator data maupun pengguna akhir data tersebut.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
