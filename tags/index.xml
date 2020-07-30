@@ -5,12 +5,44 @@
     <link>https://www.msaidf.com/tags/</link>
       <atom:link href="https://www.msaidf.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 16 Apr 2019 06:26:42 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 13 Apr 2020 06:26:42 +0000</lastBuildDate>
     <image>
       <url>https://www.msaidf.com/img/Pasfoto.jpg</url>
       <title>Tags</title>
       <link>https://www.msaidf.com/tags/</link>
     </image>
+    
+    <item>
+      <title>Corona</title>
+      <link>https://www.msaidf.com/tags/corona/</link>
+      <pubDate>Mon, 13 Apr 2020 06:26:42 +0000</pubDate>
+      <guid>https://www.msaidf.com/tags/corona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiskal</title>
+      <link>https://www.msaidf.com/tags/fiskal/</link>
+      <pubDate>Mon, 13 Apr 2020 06:26:42 +0000</pubDate>
+      <guid>https://www.msaidf.com/tags/fiskal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kesehatan</title>
+      <link>https://www.msaidf.com/tags/kesehatan/</link>
+      <pubDate>Mon, 13 Apr 2020 06:26:42 +0000</pubDate>
+      <guid>https://www.msaidf.com/tags/kesehatan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makro</title>
+      <link>https://www.msaidf.com/tags/makro/</link>
+      <pubDate>Mon, 13 Apr 2020 06:26:42 +0000</pubDate>
+      <guid>https://www.msaidf.com/tags/makro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Akad</title>
@@ -21,26 +53,10 @@
     </item>
     
     <item>
-      <title>Fiskal</title>
-      <link>https://www.msaidf.com/tags/fiskal/</link>
-      <pubDate>Tue, 16 Apr 2019 06:26:42 +0000</pubDate>
-      <guid>https://www.msaidf.com/tags/fiskal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Keuangan Syariah</title>
       <link>https://www.msaidf.com/tags/keuangan-syariah/</link>
       <pubDate>Tue, 16 Apr 2019 06:26:42 +0000</pubDate>
       <guid>https://www.msaidf.com/tags/keuangan-syariah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Makro</title>
-      <link>https://www.msaidf.com/tags/makro/</link>
-      <pubDate>Tue, 16 Apr 2019 06:26:42 +0000</pubDate>
-      <guid>https://www.msaidf.com/tags/makro/</guid>
       <description></description>
     </item>
     
