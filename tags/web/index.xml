@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web | M Said F</title>
+    <link>https://www.msaidf.com/tags/web/</link>
+      <atom:link href="https://www.msaidf.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 05 Jul 2018 06:26:42 +0000</lastBuildDate>
+    <image>
+      <url>https://www.msaidf.com/img/Pasfoto.jpg</url>
+      <title>Web</title>
+      <link>https://www.msaidf.com/tags/web/</link>
+    </image>
+    
+    <item>
+      <title>Website Kelas Menggunakan Jupyter Notebook dan Github Page</title>
+      <link>https://www.msaidf.com/post/classroom-website-using-jupyter-notebook/</link>
+      <pubDate>Thu, 05 Jul 2018 06:26:42 +0000</pubDate>
+      <guid>https://www.msaidf.com/post/classroom-website-using-jupyter-notebook/</guid>
+      <description>&lt;h1 id=&#34;memilih-software-dan-layanan-online&#34;&gt;Memilih Software dan Layanan Online&lt;/h1&gt;
+&lt;p&gt;Saya berencana untuk menyusun materi kuliah matematika, statistika, dan ekonometrika dengan menggunakan Jupyter notebook. Ketika menyampaikan perkuliahan, notebook tersebut dapat dijalankan sehingga bisa menyampaikan materi secara interaktif dan langsung praktik software R. Namun format Jupyter notebook tidak praktis untuk didistribusikan langsung kepada siswa karena untuk membukanya siswa memerlukan instalasi server jupyter dan kernel R. Salah satu cara termudah adalah dengan mengupload file notebook ke Github yang bisa menampilkan preview notebook. Akan tetapi, preview tersebut kadang gagal untuk file notebook berukuran besar.&lt;/p&gt;
+&lt;p&gt;Cara yang lebih praktis adalah mengkonversinya menjadi format html atau pdf. Karena akan terdapat banyak file terpisah yang saling terkait secara berurutan, semua itu akan lebih enak dibaca jika dikumpulkan menjadi sebuah buku online.&lt;/p&gt;
+&lt;p&gt;Konversi jupyter notebook menjadi buku online ini bisa difasilitasi dengan program &lt;a href=&#34;https://jupyter.org/jupyter-book&#34;&gt;&lt;code&gt;jupyter book&lt;/code&gt;&lt;/a&gt;.  Halaman-halaman buku bisa ditulis menggunakan format markdown atau jupyter notebbok. Lalu program ini akan mengubah formatnya agar siap diproses menjadi situs statis dengan program Jekyll. Program ini mempermudah pengaturan layout dan tema website. Instalasi Jekyll sendiri tidak mudah karena memerlukan instalasi program Ruby. Untungnya, kita tidak perlu menginstal sendiri program Jekyl itu untuk mendapatkan situs statis karena banyak layanan online yang bisa memproses format Jekyll dan menayangkan hasil akhirnya berupa situs statis.&lt;/p&gt;
+&lt;p&gt;Saya akan menggunakan layanan Github pages untuk menayangkan situs itu. Keunggulannya adalah selain sekaligus menjadi repository versioning git, Github pages juga memberikan url dari alamat domain custom Github page pengguna di &lt;a href=&#34;https://www.msaidf.com&#34;&gt;&lt;code&gt;www.msaidf.com&lt;/code&gt;&lt;/a&gt;, menjadi &lt;code&gt;www.msaidf.com/nama-repository&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Generator situs statis yang menjadi pesaing paling kuat Jekyll adalah program Hugo yang hanya terdiri dari satu file binary. Situs personal saya di &lt;a href=&#34;https://www.msaidf.com&#34;&gt;&lt;code&gt;www.msaidf.com&lt;/code&gt;&lt;/a&gt; dibuat menggunakan Hugo. Tentu lebih mudah jika jupyter notebook itu bisa dikonversi ke format Hugo saja. Akan tetapi, program konversi notebook ke hugo yang ada, &lt;code&gt;hugo_jupyter&lt;/code&gt; secara default akan menghasilkan posting untuk situs blog, bukan buku online seperti &lt;code&gt;jupyter-book&lt;/code&gt;. Mungkin ada cara untuk mengubah konfigurasi agar notebook dikonversi ke model situs buku online. Namun saat ini, saya belum sempat otak-atik ke sana.&lt;/p&gt;
+&lt;p&gt;Selain itu, ketika saya mencoba menginstall &lt;code&gt;hugo_jupyter&lt;/code&gt; dengan &lt;code&gt;pip&lt;/code&gt;, banyak python package yang justru digantikan oleh versi lama. Jadi sebaiknya &lt;code&gt;hugo_jupyter&lt;/code&gt; ini diinstall ke virtual environment terpisah dari instalasi jupyter yang lebih baru.&lt;/p&gt;
+&lt;h1 id=&#34;langkah-membuat-jupyter-book&#34;&gt;Langkah Membuat Jupyter Book&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Install jupyter book
+&lt;code&gt;pip install jupyter-book&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Generate skeleton website dengan perintah
+&lt;code&gt;jupyter-book create nama-repository&lt;/code&gt;
+atau download template dari repository github &lt;a href=&#34;https://github.com/jupyter/jupyter-book/jupyter_book/template&#34;&gt;jupyter book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ubah tampilan dan tempatkan jupyter notebook di salah satu folder di content&lt;/li&gt;
+&lt;li&gt;Lalu bangun format Jekyll dengan perintah
+&lt;code&gt;jupyter-book build nama-repository&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Stage, commit, dan push ke repository baru di Github&lt;/li&gt;
+&lt;li&gt;Buku online itu kini bisa diakses di &lt;code&gt;www.msaidf.com/nama-repository&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
