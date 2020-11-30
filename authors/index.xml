@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | M Said F</title>
-    <link>https://msaidf.com/authors/</link>
-      <atom:link href="https://msaidf.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msaidf.gitlab.io/authors/</link>
+      <atom:link href="https://msaidf.gitlab.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
-      <url>https://msaidf.com/img/Pasfoto.jpg</url>
+      <url>https://msaidf.gitlab.io/img/Pasfoto.jpg</url>
       <title>Authors</title>
-      <link>https://msaidf.com/authors/</link>
+      <link>https://msaidf.gitlab.io/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://msaidf.com/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://msaidf.com/authors/admin/</guid>
-      <description>&lt;p&gt;Muhamad Said Fathurrohman is a lecturer at Faculty of Economics and Business, Universitas Airlangga, Indonesia. He has been taking a study leave (&lt;em&gt;tugas belajar&lt;/em&gt;) since 2011 to earn master and doctoral degree in economics at Georgia State University, USA.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

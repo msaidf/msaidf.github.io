@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web | M Said F</title>
-    <link>https://msaidf.com/tags/web/</link>
-      <atom:link href="https://msaidf.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msaidf.gitlab.io/tags/web/</link>
+      <atom:link href="https://msaidf.gitlab.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <description>Web</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 05 Jul 2018 06:26:42 +0000</lastBuildDate>
     <image>
-      <url>https://msaidf.com/img/Pasfoto.jpg</url>
+      <url>https://msaidf.gitlab.io/img/Pasfoto.jpg</url>
       <title>Web</title>
-      <link>https://msaidf.com/tags/web/</link>
+      <link>https://msaidf.gitlab.io/tags/web/</link>
     </image>
     
     <item>
       <title>Website Kelas Menggunakan Jupyter Notebook dan Github Page</title>
-      <link>https://msaidf.com/post/classroom-website-using-jupyter-notebook/</link>
+      <link>https://msaidf.gitlab.io/post/classroom-website-using-jupyter-notebook/</link>
       <pubDate>Thu, 05 Jul 2018 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/post/classroom-website-using-jupyter-notebook/</guid>
+      <guid>https://msaidf.gitlab.io/post/classroom-website-using-jupyter-notebook/</guid>
       <description>&lt;h1 id=&#34;memilih-software-dan-layanan-online&#34;&gt;Memilih Software dan Layanan Online&lt;/h1&gt;
 &lt;p&gt;Saya berencana untuk menyusun materi kuliah matematika, statistika, dan ekonometrika dengan menggunakan Jupyter notebook. Ketika menyampaikan perkuliahan, notebook tersebut dapat dijalankan sehingga bisa menyampaikan materi secara interaktif dan langsung praktik software R. Namun format Jupyter notebook tidak praktis untuk didistribusikan langsung kepada siswa karena untuk membukanya siswa memerlukan instalasi server jupyter dan kernel R. Salah satu cara termudah adalah dengan mengupload file notebook ke Github yang bisa menampilkan preview notebook. Akan tetapi, preview tersebut kadang gagal untuk file notebook berukuran besar.&lt;/p&gt;
 &lt;p&gt;Cara yang lebih praktis adalah mengkonversinya menjadi format html atau pdf. Karena akan terdapat banyak file terpisah yang saling terkait secara berurutan, semua itu akan lebih enak dibaca jika dikumpulkan menjadi sebuah buku online.&lt;/p&gt;

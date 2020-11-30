@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | M Said F</title>
-    <link>https://msaidf.com/talk/</link>
-      <atom:link href="https://msaidf.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msaidf.gitlab.io/talk/</link>
+      <atom:link href="https://msaidf.gitlab.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
-      <url>https://msaidf.com/img/Pasfoto.jpg</url>
+      <url>https://msaidf.gitlab.io/img/Pasfoto.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://msaidf.com/talk/</link>
+      <link>https://msaidf.gitlab.io/talk/</link>
     </image>
     
   </channel>

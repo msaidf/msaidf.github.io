@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software | M Said F</title>
-    <link>https://msaidf.com/tags/software/</link>
-      <atom:link href="https://msaidf.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msaidf.gitlab.io/tags/software/</link>
+      <atom:link href="https://msaidf.gitlab.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 05 Jul 2018 06:26:42 +0000</lastBuildDate>
     <image>
-      <url>https://msaidf.com/img/Pasfoto.jpg</url>
+      <url>https://msaidf.gitlab.io/img/Pasfoto.jpg</url>
       <title>Software</title>
-      <link>https://msaidf.com/tags/software/</link>
+      <link>https://msaidf.gitlab.io/tags/software/</link>
     </image>
     
     <item>
       <title>Membandingkan 2 Versi Revisi File di Dropbox dan pCloud</title>
-      <link>https://msaidf.com/post/diff-dropbox-revision/</link>
+      <link>https://msaidf.gitlab.io/post/diff-dropbox-revision/</link>
       <pubDate>Thu, 05 Jul 2018 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/post/diff-dropbox-revision/</guid>
+      <guid>https://msaidf.gitlab.io/post/diff-dropbox-revision/</guid>
       <description>&lt;p&gt;Layanan sinkronisasi seperti &lt;a href=&#34;https://db.tt/fIoPf32j&#34;&gt;Dropbox&lt;/a&gt;, OneDrive dan lainnya mempermudah kerja kolaborasi dalam tim. Semua anggota tim dapat senantiasa memiliki versi terbaru dari file tanpa harus saling berkirim email versi terbaru sebagaimana biasa dilakukan di jaman old.&lt;/p&gt;
 &lt;p&gt;Namun seringkali kita juga perlu untuk melacak editing/perubahan yang dilakukan oleh rekan tim kepada file tersebut. Untuk dokumen word processor (MS-Office, LibreOffice, Google Docs), sudah ada fasilitas tracking changes. Namun untuk file-file berbasis teks seperti skrip program, readme, atau dokumen latex dan markdown, tidak ada software editor yang mendukung fasilitas track changes sebagaimana dokumen word processor.&lt;/p&gt;
 &lt;p&gt;Sebagai alternatif untuk track changes, aplikasi diff/compare bisa digunakan untuk membandingkan dua teks atau lebih. Akan tetapi ini memerlukan file berbeda untuk tiap versi yang dibandingkan. Sementara dalam alur kerja menggunakan sinkronisasi, editing tidak menghasilkan file baru, walau versi lama masih tersimpan hingga waktu tertentu. Kita bisa secara manual mengunduh versi lama untuk dibandingkan dengan versi sekarang atau versi lama lainnya.&lt;/p&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>Website Kelas Menggunakan Jupyter Notebook dan Github Page</title>
-      <link>https://msaidf.com/post/classroom-website-using-jupyter-notebook/</link>
+      <link>https://msaidf.gitlab.io/post/classroom-website-using-jupyter-notebook/</link>
       <pubDate>Thu, 05 Jul 2018 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/post/classroom-website-using-jupyter-notebook/</guid>
+      <guid>https://msaidf.gitlab.io/post/classroom-website-using-jupyter-notebook/</guid>
       <description>&lt;h1 id=&#34;memilih-software-dan-layanan-online&#34;&gt;Memilih Software dan Layanan Online&lt;/h1&gt;
 &lt;p&gt;Saya berencana untuk menyusun materi kuliah matematika, statistika, dan ekonometrika dengan menggunakan Jupyter notebook. Ketika menyampaikan perkuliahan, notebook tersebut dapat dijalankan sehingga bisa menyampaikan materi secara interaktif dan langsung praktik software R. Namun format Jupyter notebook tidak praktis untuk didistribusikan langsung kepada siswa karena untuk membukanya siswa memerlukan instalasi server jupyter dan kernel R. Salah satu cara termudah adalah dengan mengupload file notebook ke Github yang bisa menampilkan preview notebook. Akan tetapi, preview tersebut kadang gagal untuk file notebook berukuran besar.&lt;/p&gt;
 &lt;p&gt;Cara yang lebih praktis adalah mengkonversinya menjadi format html atau pdf. Karena akan terdapat banyak file terpisah yang saling terkait secara berurutan, semua itu akan lebih enak dibaca jika dikumpulkan menjadi sebuah buku online.&lt;/p&gt;
@@ -66,9 +66,9 @@ atau download template dari repository github &lt;a href=&#34;https://github.com
     
     <item>
       <title>Pengenalan Latex</title>
-      <link>https://msaidf.com/post/latex/</link>
+      <link>https://msaidf.gitlab.io/post/latex/</link>
       <pubDate>Tue, 26 Jun 2018 22:59:49 +0700</pubDate>
-      <guid>https://msaidf.com/post/latex/</guid>
+      <guid>https://msaidf.gitlab.io/post/latex/</guid>
       <description>&lt;h2 id=&#34;i-setup-latex&#34;&gt;I. Setup Latex&lt;/h2&gt;
 &lt;h4 id=&#34;1-latex-online-siap-pakai&#34;&gt;1. Latex Online Siap Pakai&lt;/h4&gt;
 &lt;ul&gt;
@@ -140,8 +140,8 @@ bbbb
 &lt;span style=&#34;color:#66d9ef&#34;&gt;\section&lt;/span&gt;{Tinjauan Literatur}
 
 &lt;span style=&#34;color:#66d9ef&#34;&gt;\citet&lt;/span&gt;{bibkey)
-&lt;span style=&#34;color:#66d9ef&#34;&gt;\citet&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[lihat]&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[bab 2]&lt;/span&gt;{bibkey}
-&lt;span style=&#34;color:#66d9ef&#34;&gt;\citet&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[misal]&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[]&lt;/span&gt;{bibkey}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\citet&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[lihat][bab 2]&lt;/span&gt;{bibkey}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\citet&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[misal][]&lt;/span&gt;{bibkey}
 &lt;span style=&#34;color:#66d9ef&#34;&gt;\citet&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[hal. 10]&lt;/span&gt;{bibkey}
 
 &lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{quote}
@@ -151,8 +151,8 @@ ddddddddddd &lt;span style=&#34;color:#66d9ef&#34;&gt;\citep&lt;/span&gt;&lt;spa
 &lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{quote}
 
 &lt;span style=&#34;color:#66d9ef&#34;&gt;\citep&lt;/span&gt;{bibkey)
-&lt;span style=&#34;color:#66d9ef&#34;&gt;\citep&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[lihat]&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[bab 2]&lt;/span&gt;{bibkey}
-&lt;span style=&#34;color:#66d9ef&#34;&gt;\citep&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[misal]&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[]&lt;/span&gt;{bibkey}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\citep&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[lihat][bab 2]&lt;/span&gt;{bibkey}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\citep&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[misal][]&lt;/span&gt;{bibkey}
 
 
 &lt;span style=&#34;color:#66d9ef&#34;&gt;\section&lt;/span&gt;{Metode}
@@ -210,7 +210,7 @@ see Table~&lt;span style=&#34;color:#66d9ef&#34;&gt;\ref&lt;/span&gt;{tab:widget
 &lt;span style=&#34;color:#66d9ef&#34;&gt;\centering&lt;/span&gt;
 &lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{tabular}{r|l c}
 
-Item &amp;amp; Quantity &amp;amp; Price  &lt;span style=&#34;color:#66d9ef&#34;&gt;\\&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\hline&lt;/span&gt;
+Item &amp;amp; Quantity &amp;amp; Price  &lt;span style=&#34;color:#66d9ef&#34;&gt;\\\hline&lt;/span&gt;
 Widgets &amp;amp; 42 &amp;amp; 10&lt;span style=&#34;color:#66d9ef&#34;&gt;\\&lt;/span&gt;
 Gadgets &amp;amp; 13 &amp;amp; 25
 

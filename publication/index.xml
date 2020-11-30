@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | M Said F</title>
-    <link>https://msaidf.com/publication/</link>
-      <atom:link href="https://msaidf.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msaidf.gitlab.io/publication/</link>
+      <atom:link href="https://msaidf.gitlab.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
-      <url>https://msaidf.com/img/Pasfoto.jpg</url>
+      <url>https://msaidf.gitlab.io/img/Pasfoto.jpg</url>
       <title>Publications</title>
-      <link>https://msaidf.com/publication/</link>
+      <link>https://msaidf.gitlab.io/publication/</link>
     </image>
     
   </channel>

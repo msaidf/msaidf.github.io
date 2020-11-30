@@ -2,135 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | M Said F</title>
-    <link>https://msaidf.com/tags/</link>
-      <atom:link href="https://msaidf.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msaidf.gitlab.io/tags/</link>
+      <atom:link href="https://msaidf.gitlab.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 13 Apr 2020 06:26:42 +0000</lastBuildDate>
     <image>
-      <url>https://msaidf.com/img/Pasfoto.jpg</url>
+      <url>https://msaidf.gitlab.io/img/Pasfoto.jpg</url>
       <title>Tags</title>
-      <link>https://msaidf.com/tags/</link>
+      <link>https://msaidf.gitlab.io/tags/</link>
     </image>
-    
-    <item>
-      <title>Corona</title>
-      <link>https://msaidf.com/tags/corona/</link>
-      <pubDate>Mon, 13 Apr 2020 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/tags/corona/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fiskal</title>
-      <link>https://msaidf.com/tags/fiskal/</link>
-      <pubDate>Mon, 13 Apr 2020 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/tags/fiskal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kesehatan</title>
-      <link>https://msaidf.com/tags/kesehatan/</link>
-      <pubDate>Mon, 13 Apr 2020 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/tags/kesehatan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Makro</title>
-      <link>https://msaidf.com/tags/makro/</link>
-      <pubDate>Mon, 13 Apr 2020 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/tags/makro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Akad</title>
-      <link>https://msaidf.com/tags/akad/</link>
-      <pubDate>Tue, 16 Apr 2019 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/tags/akad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Keuangan Syariah</title>
-      <link>https://msaidf.com/tags/keuangan-syariah/</link>
-      <pubDate>Tue, 16 Apr 2019 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/tags/keuangan-syariah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sukuk</title>
-      <link>https://msaidf.com/tags/sukuk/</link>
-      <pubDate>Tue, 16 Apr 2019 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/tags/sukuk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://msaidf.com/tags/software/</link>
-      <pubDate>Thu, 05 Jul 2018 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>https://msaidf.com/tags/web/</link>
-      <pubDate>Thu, 05 Jul 2018 06:26:42 +0000</pubDate>
-      <guid>https://msaidf.com/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Devisa</title>
-      <link>https://msaidf.com/tags/devisa/</link>
-      <pubDate>Sun, 29 Nov 2015 03:43:43 +0000</pubDate>
-      <guid>https://msaidf.com/tags/devisa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dollar</title>
-      <link>https://msaidf.com/tags/dollar/</link>
-      <pubDate>Sun, 29 Nov 2015 03:43:43 +0000</pubDate>
-      <guid>https://msaidf.com/tags/dollar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modal Asing</title>
-      <link>https://msaidf.com/tags/modal-asing/</link>
-      <pubDate>Sun, 29 Nov 2015 03:43:43 +0000</pubDate>
-      <guid>https://msaidf.com/tags/modal-asing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moneter</title>
-      <link>https://msaidf.com/tags/moneter/</link>
-      <pubDate>Sun, 29 Nov 2015 03:43:43 +0000</pubDate>
-      <guid>https://msaidf.com/tags/moneter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kurs</title>
-      <link>https://msaidf.com/tags/kurs/</link>
-      <pubDate>Sat, 16 May 2009 03:16:49 +0000</pubDate>
-      <guid>https://msaidf.com/tags/kurs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mata Uang</title>
-      <link>https://msaidf.com/tags/mata-uang/</link>
-      <pubDate>Sat, 16 May 2009 03:16:49 +0000</pubDate>
-      <guid>https://msaidf.com/tags/mata-uang/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
